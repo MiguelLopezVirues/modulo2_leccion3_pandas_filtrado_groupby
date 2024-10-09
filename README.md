@@ -1,0 +1,1 @@
+Laboratorio de ejercicios de filtrado y groupby de Pandas. Modulo 2, leccion 3 del Bootcamp Data Science de Alto Rendimiento, Hack(io).
